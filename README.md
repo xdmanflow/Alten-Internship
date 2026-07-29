@@ -101,16 +101,9 @@ alten-data-recruitment-internship/
 
 *(To be filled in with specific links as prep progresses.)*
 
----
-
-## Progress Tracker
-
-| Date | Topic Covered | Notes |
-|---|---|---|
-| | | |
 
 ---
 
 ## License
 
-Personal preparation repo — for individual use as part of the application/internship at ALTEN.
+Copyright © 2026 ALTEN. All rights reserved. This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software, in whole or in part, is strictly prohibited without prior written consent from ALTEN.
