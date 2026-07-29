@@ -1,4 +1,4 @@
-# Internship – Data Assistant / Recruitment Support at ALTEN
+# Data Assistant / Recruitment Support at ALTEN
 
 > Preparation and tracking repo for my Data Assistant internship within ALTEN's Recruitment team — collecting, structuring, analyzing, and improving multi-sector HR/recruitment data.
 
