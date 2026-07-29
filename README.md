@@ -23,7 +23,7 @@ Internship within ALTEN's **Recruitment** department, as data support. The goal 
 
 | Item | Details |
 |---|---|
-| Company | ALTEN |
+| Company | ALTEN France |
 | Role | Data Assistant / Recruitment Support (M/F) |
 | Department | Recruitment |
 | Level required | 2–3 years post-high school (BTS, DUT, Bachelor's) |
