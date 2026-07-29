@@ -106,4 +106,6 @@ alten-data-recruitment-internship/
 
 ## License
 
-Copyright © 2026 ALTEN. All rights reserved. This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software, in whole or in part, is strictly prohibited without prior written consent from ALTEN.
+Copyright © 2026 ALTEN. All rights reserved.
+
+This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software, in whole or in part, is strictly prohibited without prior written consent from ALTEN.
