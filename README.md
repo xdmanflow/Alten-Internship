@@ -68,12 +68,12 @@ This repo centralizes my preparation before/during the internship:
 
 | Topic | Skills Targeted | Status |
 |---|---|---|
-| Advanced Excel / Google Sheets | VLOOKUP/XLOOKUP, pivot tables, basic macros, conditional formatting | ⏳ |
-| Data cleaning | Deduplication, normalization, handling missing values | ⏳ |
-| HR & Recruitment KPIs | Time-to-hire, sourcing rate, candidate conversion rate | ⏳ |
-| CRM / ATS tools | Understanding how they work (e.g. Bullhorn, Recruitee, etc.) | ⏳ |
-| Reporting & Dashboards | Building automated tracking dashboards | ⏳ |
-| Process documentation | Writing clear data processing procedures | ⏳ |
+| Advanced Excel / Google Sheets | VLOOKUP/XLOOKUP, pivot tables, basic macros, conditional formatting | |
+| Data cleaning | Deduplication, normalization, handling missing values | |
+| HR & Recruitment KPIs | Time-to-hire, sourcing rate, candidate conversion rate | |
+| CRM / ATS tools | Understanding how they work (e.g. Bullhorn, Recruitee, etc.) | |
+| Reporting & Dashboards | Building automated tracking dashboards | |
+| Process documentation | Writing clear data processing procedures | |
 
 ---
 
